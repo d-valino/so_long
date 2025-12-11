@@ -35,6 +35,8 @@ The project focuses on basic game loops, window drawing, event handling, and mem
 
 Then you can `cd mandatory` or `cd bonus`
 
+You'll be able to play once you install the MiniLibx features.
+
 `make` or `make bonus`
 
 `./so_long [map file path]`
