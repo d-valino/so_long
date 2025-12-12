@@ -73,3 +73,10 @@ A valid map must be fully surrounded by walls, contain 1 player, 1 exit, and at 
 - Memory management and debugging leaks
 
 - Better code organization in C
+
+
+## 🎮 Gameplay
+
+[Screencast from 12-12-2025 05:34:45 PM.webm](https://github.com/user-attachments/assets/809f5030-6ef2-42f3-898d-7c646fe78709)
+
+
